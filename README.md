@@ -6,6 +6,8 @@
 # Trello 
 [Trello board](https://trello.com/b/p96CV7SC/task-organizer-website)
 
+[Live Demo](https://github.com/Task-Organizer-web/task-organizer-web)
+
 ## Language:
     JavaScript
     HTML/CSS
